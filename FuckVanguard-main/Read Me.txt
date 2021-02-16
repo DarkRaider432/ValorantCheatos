@@ -1,0 +1,4 @@
+1-Download python lates fersion and check the box "add to path"
+2-Download everything in Fuck-Vanguard.py
+3- open cmd , write cd + path to chaets folder
+4- then open Valorant, write to cmd this: py FuckVanguard PY
